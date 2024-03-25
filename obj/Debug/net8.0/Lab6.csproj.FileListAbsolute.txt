@@ -1,0 +1,15 @@
+C:\Users\franc\OneDrive - Southern Alberta Institute of Technology\Francis\CPRG211Lab6\obj\Debug\net8.0\Lab6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franc\OneDrive - Southern Alberta Institute of Technology\Francis\CPRG211Lab6\obj\Debug\net8.0\Lab6.AssemblyInfoInputs.cache
+C:\Users\franc\OneDrive - Southern Alberta Institute of Technology\Francis\CPRG211Lab6\obj\Debug\net8.0\Lab6.AssemblyInfo.cs
+C:\Users\franc\OneDrive - Southern Alberta Institute of Technology\Francis\CPRG211Lab6\obj\Debug\net8.0\Lab6.csproj.CoreCompileInputs.cache
+C:\Users\franc\OneDrive - Southern Alberta Institute of Technology\Francis\CPRG211Lab6\obj\Debug\net8.0\Lab6.sourcelink.json
+C:\Users\franc\OneDrive - Southern Alberta Institute of Technology\Francis\CPRG211Lab6\output\Lab6.exe
+C:\Users\franc\OneDrive - Southern Alberta Institute of Technology\Francis\CPRG211Lab6\output\Lab6.deps.json
+C:\Users\franc\OneDrive - Southern Alberta Institute of Technology\Francis\CPRG211Lab6\output\Lab6.runtimeconfig.json
+C:\Users\franc\OneDrive - Southern Alberta Institute of Technology\Francis\CPRG211Lab6\output\Lab6.dll
+C:\Users\franc\OneDrive - Southern Alberta Institute of Technology\Francis\CPRG211Lab6\output\Lab6.pdb
+C:\Users\franc\OneDrive - Southern Alberta Institute of Technology\Francis\CPRG211Lab6\obj\Debug\net8.0\Lab6.dll
+C:\Users\franc\OneDrive - Southern Alberta Institute of Technology\Francis\CPRG211Lab6\obj\Debug\net8.0\refint\Lab6.dll
+C:\Users\franc\OneDrive - Southern Alberta Institute of Technology\Francis\CPRG211Lab6\obj\Debug\net8.0\Lab6.pdb
+C:\Users\franc\OneDrive - Southern Alberta Institute of Technology\Francis\CPRG211Lab6\obj\Debug\net8.0\Lab6.genruntimeconfig.cache
+C:\Users\franc\OneDrive - Southern Alberta Institute of Technology\Francis\CPRG211Lab6\obj\Debug\net8.0\ref\Lab6.dll
